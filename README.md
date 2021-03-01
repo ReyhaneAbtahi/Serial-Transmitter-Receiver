@@ -24,13 +24,12 @@ This project has been implemented by a group of four people.(me, [ReyhaneAbtahi]
 
 e-mail:
 
-* farzanehkoohestani2000@gmail.com
+* r.abtahi1378@gmail.com
 
 Telegram id:
 
-* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+* [@Reyhan_abt](https://t.me/farzaneh_koohestani)
 
 ## License
 [MIT](https://github.com/fark00/Serial-Transmitter-Receiver/blob/master/LICENSE)
 &#0169; 
-[Farzaneh Koohestani](https://github.com/fark00)
