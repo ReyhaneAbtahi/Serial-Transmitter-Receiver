@@ -28,7 +28,7 @@ e-mail:
 
 Telegram id:
 
-* [@Reyhan_abt](https://t.me/farzaneh_koohestani)
+* [@ReyhaneAbthai](https://t.me/ReyhaneAbtahi)
 
 ## License
 [MIT](https://github.com/fark00/Serial-Transmitter-Receiver/blob/master/LICENSE)
